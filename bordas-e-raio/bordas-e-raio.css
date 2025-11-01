@@ -1,0 +1,16 @@
+* {
+    padding: 1px;
+    margin: 1px;
+    background-color: rgb(39, 39, 39);
+    color: #fff;
+    line-height: 50px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.border-radius {
+    border: 1px solid #f00;
+    border-radius: 20px;
+}

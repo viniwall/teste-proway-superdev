@@ -1,0 +1,41 @@
+* {
+    padding: 1px;
+    margin: 1px;
+    background-color: rgb(39, 39, 39);
+    color: #fff;
+    line-height: 50px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.content-box .ex1 {
+    box-sizing: content-box;
+    height: 100px;
+    width: 300px;
+    border: 1px solid red;
+}
+
+.content-box .ex2 {
+    box-sizing: content-box;
+    height: 100px;
+    width: 300px;
+    padding: 50px;
+    border: 1px solid red;
+}
+
+.border-box .ex1 {
+    box-sizing: border-box;
+    height: 100px;
+    width: 300px;
+    border: 1px solid red;
+}
+
+.border-box .ex2 {
+    box-sizing: border-box;
+    height: 100px;
+    width: 300px;
+    padding: 50px;
+    border: 1px solid red;
+}
