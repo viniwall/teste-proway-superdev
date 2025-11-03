@@ -23,5 +23,13 @@ h1 {
 }
 
 .line-height {
-    line-height: ;
+    line-height: 50%;
+}
+
+.font-weight {
+    font-weight: bolder;
+}
+
+.light {
+    font-weight: 900;
 }
